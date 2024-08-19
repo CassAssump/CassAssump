@@ -43,4 +43,4 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](644769428797521940)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cass.assumpcao/?utm_source=ig_web_button_share_sheet)
 
-![octocat-1723130127345 (1)](https://github.com/user-attachments/assets/e978204b-b29f-497f-9f96-00ac94e76e65)
+
